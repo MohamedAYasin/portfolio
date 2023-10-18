@@ -11,4 +11,4 @@ This website consists of my portfolio which is mostly my professional career and
 
 Website Link: 
 
-[https://MohamedAYasin.github.io/Portfolio/]
+[Mohamed Yasin Portfolio](https://MohamedAYasin.github.io/Portfolio/)
